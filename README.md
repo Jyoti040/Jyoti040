@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jyoti ahuja</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jyoti040&label=Profile%20views&color=0e75b6&style=flat" alt="Jyoti040" /> </p>
-[![@jyoti040's Holopin board](https://holopin.io/api/user/board?user=jyoti040)](https://holopin.io/@jyoti040)
+
+[![An image of @jyoti040's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jyoti040)](https://holopin.io/@jyoti040)
 
 
 - 👯 I’m looking to collaborate on **Front end projects **
