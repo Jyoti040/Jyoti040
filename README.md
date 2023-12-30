@@ -38,3 +38,4 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyoti040&layout=compact&theme=" alt=Jyoti040 />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Jyoti040&show_icons=true&locale=en&theme=" alt="Jyoti040" /></p>
+[![Jyoti040's GitHub | Languages Over Time](https://stats.quine.sh/Jyoti040/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Jyoti040)
