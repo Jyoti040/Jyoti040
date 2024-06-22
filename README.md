@@ -4,8 +4,8 @@
 
 
 
-- 👯 I’m looking to collaborate on **Front end projects **
-- 🌱 I’m currently learning **React js**
+- 👯 I’m looking to collaborate on **Open source projects **
+- 🌱 I’m currently learning **Backend Development**
 - 💬 Ask me about **Frontend **
 - 📫 How to reach me **jyotiahuja822@gmail.com**
 
