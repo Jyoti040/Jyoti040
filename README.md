@@ -4,9 +4,9 @@
 
 
 
-- 👯 I’m looking to collaborate on **Front end projects **
-- 🌱 I’m currently learning **React js**
-- 💬 Ask me about **Frontend **
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🌱 I’m currently learning **Backend Development**
+- 💬 Ask me about **Frontend**
 - 📫 How to reach me **jyotiahuja822@gmail.com**
 
 <div> <a href="https://x.com/jyoti040?t=EcZWgtae2PGB9g4DPgeEzA&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
